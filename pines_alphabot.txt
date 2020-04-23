@@ -1,0 +1,25 @@
+Pines BCM
+
+# Motores
+Motor 1. 12 y 13
+enable 1. 6
+Motor 2. 20 y 21
+enable 2. 26
+
+# Infrarrojo para obstaculos
+Derecho. 16
+Izquierdo. 19
+
+# Buzzer o LED en mi caso
+Buzzer. 4
+
+# Joystick
+CTR. 7
+A. 8
+B. 9
+C. 10
+D. 11
+
+# Ultrasonic sensor
+TRIG. 22
+ECHO. 27
