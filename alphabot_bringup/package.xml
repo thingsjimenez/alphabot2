@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>alphabot_bringup</name>
+  <version>0.0.0</version>
+  <description>The alphabot_bringup package</description>
+
+  <maintainer email="thingsjimenez@gmail.com">Santiago Jiménez</maintainer>
+  <author email="thingsjimenez@gmail.com">Santiago Jiménez</author>
+
+  <license>GPLv3</license>
+  <url type="website">http://github.com/thingsjimenez</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>alphabot2_driver</depend>
+
+  <export>
+
+  </export>
+</package>

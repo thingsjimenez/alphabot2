@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+	<rosparam file="$(find alphabot_bringup)/config/params.yaml"/>
+	<node name="driver_motors" pkg="alphabot_driver" type="motor_wrapper.py" output="screen" />
+</launch>

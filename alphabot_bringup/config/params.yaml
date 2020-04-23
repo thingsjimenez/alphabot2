@@ -1,0 +1,4 @@
+timeout: 2
+rate: 10
+max_speed: 0.25
+wheel_base: 0.093
