@@ -86,5 +86,5 @@ generate_messages(
 ## DEPENDS: system dependencies of this project that dependent projects also need
 catkin_package(
   LIBRARIES alphabot_msgs
-  CATKIN_DEPENDS geometry_msgs sensors_msgs std_msgs message_runtime
+  CATKIN_DEPENDS geometry_msgs sensor_msgs std_msgs message_runtime
 )
